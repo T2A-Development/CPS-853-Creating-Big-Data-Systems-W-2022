@@ -1,0 +1,2 @@
+# CPS-853-Creating-Big-Data-Systems-W-2022
+Big Data analytic and transactional systems. The course will provide introduction to the theory and practice of large-scale software systems. We will focus on defining Big Data properties and architecting the systems to accommodate these properties. In addition, we will cover quality assurance of such systems, as well as management (risk estimation, planning, team management, etc.)
