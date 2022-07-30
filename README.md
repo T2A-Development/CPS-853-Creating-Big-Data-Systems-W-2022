@@ -6,6 +6,7 @@ Big Data analytic and transactional systems. The course will provide introductio
 The project requirement are as follows:
 
 1- The Analysis needs to clearly apply the data science life cycle.
+
 2- Use Spark for the analysis, use the exercises and use cases we took so far to help you 
    in addressing the competition analytical questions. 
  
